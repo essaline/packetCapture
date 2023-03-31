@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>player.png</file>
+        <file>stop.png</file>
+        <file>clean.png</file>
+    </qresource>
+</RCC>
